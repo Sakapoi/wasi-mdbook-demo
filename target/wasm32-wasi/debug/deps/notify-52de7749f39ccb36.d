@@ -1,0 +1,11 @@
+/workspaces/mdBook/target/wasm32-wasi/debug/deps/notify-52de7749f39ccb36.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/null.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/poll.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/debounce/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/debounce/timer.rs
+
+/workspaces/mdBook/target/wasm32-wasi/debug/deps/libnotify-52de7749f39ccb36.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/null.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/poll.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/debounce/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/debounce/timer.rs
+
+/workspaces/mdBook/target/wasm32-wasi/debug/deps/notify-52de7749f39ccb36.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/null.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/poll.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/debounce/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/debounce/timer.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/null.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/poll.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/debounce/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.16/src/debounce/timer.rs:
